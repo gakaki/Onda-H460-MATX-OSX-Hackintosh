@@ -12,3 +12,5 @@ osx 10.15.4
     usb2 is ok
     the intgreated graphic is not ok ， the motherboard hdmi is just version 1.4 could not support 4k monitor。so i think buy a video card is a good choice。
     
+另外可以闲鱼找我组放入书包的itx
+![10500es 放入书包itx](./xianyu.jpg)
